@@ -1,4 +1,4 @@
-#Presentation - Machine learning (overview)
+# Presentation - Machine learning (overview)
 
 ## Link to video
 https://youtu.be/oi9yBfFDcaI
@@ -7,4 +7,4 @@ https://youtu.be/oi9yBfFDcaI
 https://zealous-nobel-bd5e26.netlify.app/
 
 ## Speaker notes
-Speaker notes to presantation can be found in speaker-notes.md
+Speaker notes to this presentation can be found in speaker-notes.md
